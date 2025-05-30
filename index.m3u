@@ -2953,6 +2953,8 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sportsman Channel" tvg-id="SportsmanChannel.us" tvg-logo="https://i.imgur.com/CXauv8M.png" group-title="Sports",Sportsman Channel
 https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Sportsnet (East)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png" group-title="Sports",Sportsnet (East)
+https://v14.thetvapp.to/hls/sportsnet-east/tracks-v2a1/mono.m3u8?token=VvCi8eEppE2xjSNbyCBzgg&expires=1748585961&user_id=TXlSTkd0RzNsNXNucFFkTVBEcGlzR0VhWGlnamw3TXJ6OFd6cHllTQ==
 #EXTINF:-1 tvg-name="SportsNet New York (540p)" tvg-id="SportsNetNewYork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="Sports",SportsNet New York (540p)
 https://fl3.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 tvg-name="St. Johns County Government GTV (St. Johns County FL) (720p)" tvg-id="GTV.us" tvg-logo="https://i.imgur.com/xN6WM3N.png" group-title="Legislative",St. Johns County Government GTV (St. Johns County FL) (720p)
