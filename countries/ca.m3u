@@ -1,0 +1,288 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="BNN Bloomberg" tvg-id="bnnbloomberg.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/512px-BNN_Bloomberg.svg.png" group-title="Business", BNN Bloomberg
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+
+#EXTINF:-1 tvg-name="C Malayalam TV (1080p)" tvg-id="ATN.Malayalam.ca" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Culture", C Malayalam TV (1080p)
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EET TV (1080p) [Not 24/7]" tvg-id="zeetv.ca" tvg-logo="https://i.imgur.com/rntSEDZ.png" group-title="Culture", EET TV (1080p) [Not 24/7]
+https://eu.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1 tvg-name="Canal Savoir (360p)" tvg-id="canalsavoir.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" group-title="Education", Canal Savoir (360p)
+https://hls.savoir.media/live/stream.m3u8
+
+#EXTINF:-1 tvg-name="Télé-Québec (720p)" tvg-id="téléquébec.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="Education", Télé-Québec (720p)
+https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="A&E East (720p)" tvg-id="a&e.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Entertainment", A&E East (720p)
+https://tvpass.org/live/AEEast/hd
+
+#EXTINF:-1 tvg-name="Feva TV (1080p)" tvg-id="fevatv.ca" tvg-logo="https://i.imgur.com/QSi0YTS.png" group-title="Entertainment", Feva TV (1080p)
+https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
+
+#EXTINF:-1 tvg-name="STAR International (720p)" tvg-id="m6international.ca" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="Entertainment", STAR International (720p)
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+
+#EXTINF:-1 tvg-name="CBC Calgary (CBRT-DT) (720p) [Geo-blocked]" tvg-id="cbccalgary.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg" group-title="General", CBC Calgary (CBRT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+
+#EXTINF:-1 tvg-name="CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]" tvg-id="cbcedmonton.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="General", CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+
+#EXTINF:-1 tvg-name="CBC Manitoba (CBWT-DT) (720p) [Geo-blocked]" tvg-id="cbcmanitoba.ca" tvg-logo="https://i.imgur.com/aWNHg5z.png" group-title="General", CBC Manitoba (CBWT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
+
+#EXTINF:-1 tvg-name="CBC Montréal (CBMT-DT) (720p) [Geo-blocked]" tvg-id="cbcmontreal.ca" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="General", CBC Montréal (CBMT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+
+#EXTINF:-1 tvg-name="CBC Ottawa (CBOT-DT) (720p) [Geo-blocked]" tvg-id="cbcottawa.ca" tvg-logo="https://i.imgur.com/v3DJUa8.png" group-title="General", CBC Ottawa (CBOT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+
+#EXTINF:-1 tvg-name="CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]" tvg-id="eastlinktvprinceedwardisland.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/CBCT-DT_logo.jpg" group-title="General", CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
+
+#EXTINF:-1 tvg-name="CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]" tvg-id="cbcreginasaskatchewan.ca" tvg-logo="https://i.imgur.com/PWGVjsg.png" group-title="General", CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
+
+#EXTINF:-1 tvg-name="CBC Toronto (CBLT-DT) (720p) [Geo-blocked]" tvg-id="cbctoronto.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg" group-title="General", CBC Toronto (CBLT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+
+#EXTINF:-1 tvg-name="CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]" tvg-id="cbcvancouver.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg" group-title="General", CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+
+#EXTINF:-1 tvg-name="CBC Windsor (CBET-DT) (720p) [Geo-blocked]" tvg-id="cbcwindsor.ca" tvg-logo="https://i.imgur.com/NFts1uU.png" group-title="General", CBC Windsor (CBET-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
+
+#EXTINF:-1 tvg-name="ICI Montreal (720p)" tvg-id="icimontreal.ca" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="General", ICI Montreal (720p)
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+
+#EXTINF:-1 tvg-name="Ici Radio-Canada Télé (1080p) [Geo-blocked]" tvg-id="iciradiotéléestrie.ca" tvg-logo="https://i.imgur.com/pFCJGj4.png" group-title="General", Ici Radio-Canada Télé (1080p) [Geo-blocked]
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+
+#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]" tvg-id="iciradiotéléestrie.ca" tvg-logo="https://i.imgur.com/1B3d8Jc.png" group-title="General", Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
+
+#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]" tvg-id="iciradiotéléestrie.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General", Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+
+#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]" tvg-id="iciradiotélémanitoba.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ici_Manitoba_logo.jpg/512px-Ici_Manitoba_logo.jpg" group-title="General", Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
+
+#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]" tvg-id="iciradiotélémauricie.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General", Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
+
+#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]" tvg-id="iciradiotéléottawa.ca" tvg-logo="https://i.imgur.com/1f798e8.png" group-title="General", Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
+
+#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]" tvg-id="iciradiotéléottawa.ca" tvg-logo="https://i.imgur.com/373Y8Py.png" group-title="General", Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
+
+#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]" tvg-id="iciradiotéléquebeccity.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="General", Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
+
+#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]" tvg-id="iciradiotélésaguenay.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General", Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
+
+#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]" tvg-id="iciradiotélésaskatchewan.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Ici_Saskatchewan_logo.png/512px-Ici_Saskatchewan_logo.png" group-title="General", Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
+
+#EXTINF:-1 tvg-name="Newfoundland Television (480p)" tvg-id="Newfoundland.Television.HDTV.(NTVHD).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="General", Newfoundland Television (480p)
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVA [Geo-blocked]" tvg-id="tva.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="General", TVA [Geo-blocked]
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+
+#EXTINF:-1 tvg-name="TVOKids" tvg-id="dummy-166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/512px-Tvokids-logo.svg.png" group-title="Kids", TVOKids
+https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Legislative Assembly of British Columbia" tvg-id="britishcolumbialegislature.ca" tvg-logo="https://i.imgur.com/5QGxHhh.png" group-title="Legislative", Legislative Assembly of British Columbia
+https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Legislative Assembly of Ontario" tvg-id="ontariolegislativeassembly.ca" tvg-logo="https://i.imgur.com/n24MrsX.png" group-title="Legislative", Legislative Assembly of Ontario
+https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Legislative Assembly TV Nunavut" tvg-id="nwtandnunavutlegislativeassembly.ca" tvg-logo="https://i.imgur.com/wY9WhYS.png" group-title="Legislative", Legislative Assembly TV Nunavut
+http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
+
+#EXTINF:-1 tvg-name="Crave 1" tvg-id="crave1.ca" tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="Movies", Crave 1
+https://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+
+#EXTINF:-1 tvg-name="Crave 2" tvg-id="crave2.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="Movies", Crave 2
+https://fl3.moveonjoy.com/CRAVE_2/index.m3u8
+
+#EXTINF:-1 tvg-name="Crave 3" tvg-id="crave3.ca" tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="Movies", Crave 3
+https://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+
+#EXTINF:-1 tvg-name="Crave 4" tvg-id="crave4.ca" tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="Movies", Crave 4
+https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
+
+#EXTINF:-1 tvg-name="NETV Toronto (720p)" tvg-id="ctvtoronto.ca" tvg-logo="https://i.imgur.com/WXRBuOW.png" group-title="Movies", NETV Toronto (720p)
+https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Naturescape" tvg-id="stingraynaturescape.ca" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Music", Naturescape
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240b7e283aa40008f79f84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f05-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a5760903-3730-493d-a240-f38538ed67ca
+
+#EXTINF:-1 tvg-name="Qello Concerts" tvg-id="qelloconcertsbystingray.ca" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Music", Qello Concerts
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb439-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ba3de05-22ef-4ab2-8d11-c4a6c21d39ba
+
+#EXTINF:-1 tvg-name="Stingray Classic Rock (1080p)" tvg-id="stingrayclassicrock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Music", Stingray Classic Rock (1080p)
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Classica (1080p)" tvg-id="stingrayclassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Music", Stingray Classica (1080p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Easy Listening (1080p)" tvg-id="stingrayeasylistening.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Music", Stingray Easy Listening (1080p)
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Flashback 70s (1080p)" tvg-id="stingrayflashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Music", Stingray Flashback 70s (1080p)
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Hit List (1080p)" tvg-id="stingrayhitlist.ca" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="Music", Stingray Hit List (1080p)
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Holiday Hits (1080p)" tvg-id="stingrayhits.ca" tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="Music", Stingray Holiday Hits (1080p)
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Hot Country (1080p)" tvg-id="stingrayhotcountry.ca" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="Music", Stingray Hot Country (1080p)
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Karaoke (1080p)" tvg-id="stingraykaraokeod.ca" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="Music", Stingray Karaoke (1080p)
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Nothin' But 90s (1080p)" tvg-id="stingraynothin'but'90s.ca" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="Music", Stingray Nothin' But 90s (1080p)
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Pop Adult (1080p)" tvg-id="stingraypopadult.ca" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Music", Stingray Pop Adult (1080p)
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Remember the 80s (1080p)" tvg-id="stingrayrememberthe80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Music", Stingray Remember the 80s (1080p)
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Rock Alternative (1080p)" tvg-id="stingrayalternative.ca" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="Music", Stingray Rock Alternative (1080p)
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Romance Latino (1080p)" tvg-id="stingraytrance.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Music", Stingray Romance Latino (1080p)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Smooth Jazz (1080p)" tvg-id="stingraysmoothjazz.ca" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="Music", Stingray Smooth Jazz (1080p)
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="Stingray The Spa (1080p)" tvg-id="stingraythespa.ca" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Music", Stingray The Spa (1080p)
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="BBC News (North America) (1080p)" tvg-id="cbcnews.ca" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News", BBC News (North America) (1080p)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CBC News Network (720p) [Geo-blocked]" tvg-id="cbcnewsnetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News", CBC News Network (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+
+#EXTINF:-1 tvg-name="Channel Y (720p) [Not 24/7]" tvg-id="channeli.ca" tvg-logo="https://i.imgur.com/OqSl2Qf.png" group-title="News", Channel Y (720p) [Not 24/7]
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CityNews Toronto (720p)" tvg-id="citytoronto.ca" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News", CityNews Toronto (720p)
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+
+#EXTINF:-1 tvg-name="CityNews Vancouver (720p)" tvg-id="cityvancouver.ca" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News", CityNews Vancouver (720p)
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+
+#EXTINF:-1 tvg-name="ICI RDI (720p)" tvg-id="icirdi.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" group-title="News", ICI RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
+#EXTINF:-1 tvg-name="LCN [Geo-blocked]" tvg-id="lcn.ca" tvg-logo="https://i.imgur.com/iKDLgOG.png" group-title="News", LCN [Geo-blocked]
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+
+#EXTINF:-1 tvg-name="RT France (1080p) [Geo-blocked]" tvg-id="rt.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="News", RT France (1080p) [Geo-blocked]
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Punjab (720p)" tvg-id="punjabi.ca" tvg-logo="https://i.ibb.co/JnxNMNq/logo-2022.png" group-title="News", TV Punjab (720p)
+https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Love Nature 4K (2160p)" tvg-id="lovenature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Outdoor", Love Nature 4K (2160p)
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Love Nature (720p) [Geo-blocked]" tvg-id="lovenature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Outdoor", Love Nature (720p) [Geo-blocked]
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Love Nature HD (1080i)" tvg-id="lovenature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Outdoor", Love Nature HD (1080i)
+http://78.130.250.2:8023/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-name="Outdoor Channel" tvg-id="dummy-104" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Outdoor", Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Amazing Discoveries TV (720p)" tvg-id="amazingdiscoveries.ca" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="Religious", Amazing Discoveries TV (720p)
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EWTN Canada (720p) [Not 24/7]" tvg-id="ewtn.ca" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious", EWTN Canada (720p) [Not 24/7]
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Frasier" tvg-id="dummy-57" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="Series", Frasier
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f90e39183b000769f12b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=385f93fc-8e79-4ac3-9478-5758ce4a3181
+
+#EXTINF:-1 tvg-name="Paramount Network East" tvg-id="paramountnetworklatino.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Series", Paramount Network East
+https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="Fight Network (1080p)" tvg-id="fightnetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports", Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-name="Game+ (720p)" tvg-id="game+.ca" tvg-logo="https://i.imgur.com/Lj69WbR.png" group-title="Sports", Game+ (720p)
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="golfchannel.ca" tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="Sports", Golf Channel
+https://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN1 (1080p)" tvg-id="tsn1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports", TSN1 (1080p)
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN2" tvg-id="tsn2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports", TSN2
+https://fl5.moveonjoy.com/TSN_2/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN3" tvg-id="tsn3.ca" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Sports", TSN3
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN4" tvg-id="tsn4.ca" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports", TSN4
+https://fl5.moveonjoy.com/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN5" tvg-id="tsn5.ca" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports", TSN5
+https://fl5.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN The Ocho" tvg-id="tsntheocho.ca" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports", TSN The Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+
+#EXTINF:-1 tvg-name="Assemblée Nationale du Québec" tvg-id="assembléenationale.ca" tvg-logo="https://i.imgur.com/jAtq0U8.png" group-title="Undefined", Assemblée Nationale du Québec
+https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cable 14 Hamilton" tvg-id="tvhamiltoncable14.ca" tvg-logo="https://i.imgur.com/bJ7ygTq.png" group-title="Undefined", Cable 14 Hamilton
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
+
+#EXTINF:-1 tvg-name="Canada Star TV (720p)" tvg-id="daystartv.ca" tvg-logo="https://i.imgur.com/57iXCDh.png" group-title="Undefined", Canada Star TV (720p)
+https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NTV+" tvg-id="ntv.ca" tvg-logo="https://i.imgur.com/YEUhPBv.png" group-title="Undefined", NTV+
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Prime Asia TV (1080p)" tvg-id="primeasiatv.ca" tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="Undefined", Prime Asia TV (1080p)
+http://primeasia.selfip.net/Samsung/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai World Premium" tvg-id="raiworldpremium.ca" tvg-logo="https://i.imgur.com/tDuKkh3.png" group-title="Undefined", Rai World Premium
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+
+#EXTINF:-1 tvg-name="Tamil Vision TV (1080p)" tvg-id="tamilvision.ca" tvg-logo="https://i.imgur.com/DodsLuW.png" group-title="Undefined", Tamil Vision TV (1080p)
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Toronto 360 TV (720p) [Not 24/7]" tvg-id="ctvtoronto.ca" tvg-logo="https://i.imgur.com/YJYdHKO.png" group-title="Undefined", Toronto 360 TV (720p) [Not 24/7]
+http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV 16 Toronto (720p) [Not 24/7]" tvg-id="ctvtoronto.ca" tvg-logo="https://i.imgur.com/c4lLchb.png" group-title="Undefined", TV 16 Toronto (720p) [Not 24/7]
+http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Uvagut TV (1080p)" tvg-id="uvaguttv.ca" tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="Undefined", Uvagut TV (1080p)
+https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
+
+#EXTINF:-1 tvg-name="W Network (720p)" tvg-id="wnetwork.ca" tvg-logo="https://i.imgur.com/t7XdBh8.png" group-title="Undefined", W Network (720p)
+https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="Wild TV (1080p)" tvg-id="wildtv.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="Undefined", Wild TV (1080p)
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
+#EXTINF:-1 tvg-name="The Weather Network" tvg-id="theweathernetwork.ca" tvg-logo="https://i.imgur.com/V6ZUwUY.png" group-title="Weather", The Weather Network
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
