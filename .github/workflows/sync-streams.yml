@@ -1,4 +1,4 @@
-name: Sync streams from iptv-org and update index.m3u
+name: Sync all streams/*.m3u from iptv-org and update index.m3u
 
 on:
   schedule:
