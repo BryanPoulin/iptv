@@ -15,3 +15,5 @@ git add streams/
 
 # Commit if there are changes, otherwise just print a message
 git commit -m "Sync streams folder with iptv-org" || echo "No changes to commit"
+
+# Note: index.m3u is handled in the workflow YAML file, not here.
