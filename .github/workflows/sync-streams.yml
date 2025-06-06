@@ -1,31 +1,38 @@
-name: Sync Streams and Generate index.m3u
+name: Sync streams from iptv-org and update index.m3u
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:       # Allows manual triggers
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: false  # disable built-in push (we'll handle it explicitly)
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: false
 
-      - name: Set up Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+    - name: Set up git user
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Make sync script executable
-        run: chmod +x scripts/sync-streams.sh
+    - name: Add iptv-org remote (if missing)
+      run: |
+        if ! git remote get-url iptv-org &>/dev/null; then
+          git remote add iptv-org https://github.com/iptv-org/iptv.git
+        fi
 
-      - name: Run sync script
-        run: ./scripts/sync-streams.sh
+    - name: Make sure sync script is executable
+      run: chmod +x scripts/sync-streams.sh
 
-      - name: Push any changes
-        uses: ad-m/github-push-action@v0.8.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Run sync script
+      run: ./scripts/sync-streams.sh
+
+    - name: Push changes (if any)
+      uses: ad-m/github-push-action@v0.8.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
