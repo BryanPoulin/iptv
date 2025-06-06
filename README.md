@@ -2,7 +2,7 @@
 
 Welcome to the GitHub Pages version of this project!
 
-👉 **Live site:** [https://bryanpoulin.github.io/iptv/](https://bryanpoulin.github.io/siptv-org/)
+👉 **Live site:** [https://bryanpoulin.github.io/iptv/](https://bryanpoulin.github.io/iptv/)
 
 This site serves the **index.html** file from the root of the `master` branch. It includes a curated list of publicly avaialble IPTV channels from Canada, the United States and the United Kingdom.
 
