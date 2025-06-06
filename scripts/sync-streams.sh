@@ -10,7 +10,7 @@ git fetch iptv-org
 git checkout iptv-org/master -- streams/*.m3u
 
 # Add and commit any changes to streams/*.m3u
-git add streams/
+git add streams/*.m3u
 git commit -m "Sync all streams/*.m3u from iptv-org" || echo "No changes in streams/"
 
 # Generate a combined index.m3u
