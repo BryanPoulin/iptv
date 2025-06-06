@@ -9,10 +9,12 @@ git fetch iptv-org
 # Sync all *.m3u files from iptv-org to ./streams/
 git checkout iptv-org/master -- streams/*.m3u
 
-# If streams/index.m3u accidentally exists in the repo, untrack it (ignore errors if it doesn't)
-git rm --cached --ignore-unmatch streams/index.m3u || true
+# Remove streams/index.m3u from tracking only if it exists
+if git ls-files --error-unmatch streams/index.m3u &>/dev/null; then
+  git rm --cached streams/index.m3u
+fi
 
-# Add and commit any changes to streams/*.m3u (skip if no changes)
+# Add and commit any changes to streams/*.m3u
 git add streams/*.m3u
 git diff --cached --quiet || git commit -m "Sync all streams/*.m3u from iptv-org"
 
