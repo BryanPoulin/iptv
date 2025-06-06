@@ -14,6 +14,9 @@ if git ls-files --error-unmatch streams/index.m3u &>/dev/null; then
   git rm --cached streams/index.m3u
 fi
 
+# Remove the local streams/index.m3u file if it exists (no error if missing)
+rm -f streams/index.m3u
+
 # Add and commit any changes to streams/*.m3u
 git add streams/*.m3u
 git diff --cached --quiet || git commit -m "Sync all streams/*.m3u from iptv-org"
