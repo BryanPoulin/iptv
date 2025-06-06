@@ -6,8 +6,9 @@ cd "$(dirname "$0")/.."
 # Fetch updates from iptv-org
 git fetch iptv-org
 
-# Sync all *.m3u files from iptv-org to ./streams/
+# Sync all *.m3u files from iptv-org to ./streams/, excluding streams/index.m3u if it exist
 git checkout iptv-org/master -- streams/*.m3u
+git rm --cached streams/index.m3u 2>/dev/null || true  # Ensure it's never tracked
 
 # Add and commit any changes to streams/*.m3u
 git add streams/*.m3u
