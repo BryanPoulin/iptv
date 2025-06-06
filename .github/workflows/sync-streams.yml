@@ -1,38 +1,49 @@
-name: Sync all streams/*.m3u from iptv-org and update index.m3u
+name: Sync and Update index.m3u
 
+# Run on schedule (daily at midnight UTC) and manually
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:       # Allows manual triggers
+    - cron: '0 0 * * *'  # daily at 00:00 UTC
+  workflow_dispatch:
 
 jobs:
   sync:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        persist-credentials: false
+      # Step 1: Check out your repository
+      - name: Checkout this repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # We'll use a push-action later
 
-    - name: Set up git user
-      run: |
-        git config user.name "GitHub Actions Bot"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      # Step 2: Configure git user (for commits)
+      - name: Configure git user
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-    - name: Add iptv-org remote (if missing)
-      run: |
-        if ! git remote get-url iptv-org &>/dev/null; then
-          git remote add iptv-org https://github.com/iptv-org/iptv.git
-        fi
+      # Step 3: Add the iptv-org remote if it's missing
+      - name: Add iptv-org remote (if not already present)
+        run: |
+          if ! git remote get-url iptv-org &>/dev/null; then
+            git remote add iptv-org https://github.com/iptv-org/iptv.git
+          fi
 
-    - name: Make sure sync script is executable
-      run: chmod +x scripts/sync-streams.sh
+      # Step 4: Make the sync script executable
+      - name: Ensure sync script is executable
+        run: chmod +x scripts/sync-streams.sh
 
-    - name: Run sync script
-      run: ./scripts/sync-streams.sh
+      # Step 5: Run the sync script
+      # This script:
+      #  - Fetches all *.m3u files from iptv-org/streams/
+      #  - Replaces local streams/*.m3u
+      #  - Creates a combined index.m3u from selected files
+      - name: Fetch and combine playlists
+        run: ./scripts/sync-streams.sh
 
-    - name: Push changes (if any)
-      uses: ad-m/github-push-action@v0.8.0
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      # Step 6: Push any changes to your repository
+      - name: Push updates to repository (if any)
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
