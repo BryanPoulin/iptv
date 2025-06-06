@@ -7,8 +7,13 @@ cd "$(dirname "$0")/.."
 # Fetch updates from iptv-org
 git fetch iptv-org
 
-# Sync ALL *.m3u files from iptv-org's streams/ folder
-git checkout iptv-org/master -- streams/*.m3u
+# Get the list of remote .m3u files in streams/ (excluding index.m3u if it doesn't exist there)
+remote_files=$(git ls-tree --name-only -r iptv-org/master -- streams | grep '\.m3u$')
+
+# Checkout only those files that exist remotely
+for file in $remote_files; do
+  git checkout iptv-org/master -- "$file"
+done
 
 # Stage updated streams/ files
 git add streams/
