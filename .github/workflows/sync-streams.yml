@@ -54,7 +54,7 @@ jobs:
         done
 
         # Show differences for debug
-        git diff --index -- index.m3u || true
+        git diff index.m3u || true
 
         # Stage index.m3u even if only it changed
         git add index.m3u
